@@ -9,6 +9,6 @@
     <color name="white">#FFFFFF</color>
     <color name="lightblue">#FF03A9F4</color>
     <color name="darkblue">#1B2A7E</color>
-    <color name="delete">#FFE91E63</color>
+    <color name="delete">#E9A51E</color>
     <color name="update">#FF9C27B0</color>
 </resources>
