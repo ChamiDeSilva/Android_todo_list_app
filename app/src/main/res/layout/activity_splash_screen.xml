@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:background="@color/black"
+    android:background="@color/white"
     android:orientation="vertical"
     android:gravity="center_vertical"
     android:layout_height="match_parent"
@@ -14,7 +14,7 @@
         android:id="@+id/textView2"
         android:layout_width="match_parent"
         android:layout_height="69dp"
-        android:text="TaskMate"
+        android:text="Work Buddy"
         android:textAlignment="center"
         android:textColor="@color/purple_700"
         android:textSize="28sp"
@@ -46,8 +46,8 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:fontFamily="sans-serif"
-        android:text="A new way to manage "
-        android:textColor="@color/white"
+        android:text="Try a different way to organize "
+        android:textColor="@color/black"
         android:textSize="26sp"
         android:textStyle="bold" />
 
@@ -56,8 +56,8 @@
         android:layout_height="68dp"
         android:layout_gravity="center_horizontal"
         android:fontFamily="sans-serif"
-        android:text="Your Work !"
-        android:textColor="@color/lightblue"
+        android:text="your tasks !"
+        android:textColor="@color/black"
         android:textSize="26sp"
         android:textStyle="bold" />
 
@@ -66,9 +66,9 @@
         android:layout_height="75dp"
         android:fontFamily="sans-serif"
         android:letterSpacing="0.3"
-        android:text="Increase your productivity by managing your personal and team task"
+        android:text="Maximize productivity by efficiently managing tasks for yourself and your team alike"
         android:textAlignment="center"
-        android:textColor="#757171"
+        android:textColor="#673AB7"
         android:textSize="16sp" />
 
 </LinearLayout>
